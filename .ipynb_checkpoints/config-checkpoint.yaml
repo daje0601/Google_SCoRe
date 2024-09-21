@@ -1,9 +1,0 @@
-model_name: "google/gemma-2-2B-it"
-learning_rate: 0.000005  # 5e-6로 변경
-epochs_stage_1: 2
-epochs_stage_2: 3
-beta_kl: 0.01  # 0.1에서 0.01로 변경
-alpha: 0.5  # 1.0에서 0.5로 변경
-data_file: "/workspace/Google_SCoRe/SCoRe_Dasetset.csv"
-warmup_steps: 100  # 새로 추가
-max_grad_norm: 1.0  # 새로 추가
