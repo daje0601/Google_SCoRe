@@ -1,0 +1,7 @@
+pandas
+yaml
+transformers
+accelerate
+trl
+huggingface_hub
+datasets
