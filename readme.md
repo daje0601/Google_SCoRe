@@ -57,6 +57,8 @@ The **SCoRe Dataset** is structured with the following columns:
 ## Result 
 
 <img src="./image/gemma-2_wrong.png" alt="Wrong Predict" width="500"/>
-* 산수화가 정답인데 오답을 생성한 모습
-<img src="./gemma-2_tuned_answer.png" alt="Right Predict" width="500"/>
+산수화가 정답인데 오답을 생성한 모습
+
+<img src="./image/gemma-2_tuned_answer.png" alt="Right Predict" width="500"/>
+학습 후 정답을 맞춘 모습
 
