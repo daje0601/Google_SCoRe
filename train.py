@@ -24,7 +24,7 @@ def load_config(config_file=None):
             "epochs_stage_2": 3,
             "beta_kl": 0.1,
             "alpha": 1.0,
-            "data_file": "south_korea_qa_dataset_korean_various_topics.csv"
+            "data_file": "SCoRe_dataset.csv"
         }
     return config
 
